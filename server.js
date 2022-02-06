@@ -17,7 +17,7 @@ app.use(
 
 
 // url should be api you are proxying to
-const url = "http://3.23.126.61:4000"
+const url = "http://18.189.77.245:4000"
 
 
 app.use((req, res) => {
